@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "tp2-tp4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon conexion.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kreitouss/TP2-TP4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kreitouss/TP2-TP4/issues"
+  },
+  "homepage": "https://github.com/Kreitouss/TP2-TP4#readme",
+  "dependencies": {
+    "mongodb": "^4.11.0"
+  }
+}
